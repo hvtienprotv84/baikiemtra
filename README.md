@@ -1,4 +1,6 @@
-# THÔNG TIN THÀNH VIÊN
-* Huỳnh Vĩnh Tiến
-* 2011061897
-* 20DTHB2
+# CV
+## Thông tin
+* Trần Lưu Đông Triều
+* MSSV: 2011064067
+* Trieu edited
+* Trieu edited last pull request
